@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in bash scripting involving file processing with `find`.  The script intends to process only files, but a faulty check for directories exists.  The solution highlights the correct approach and explains the underlying issue.
